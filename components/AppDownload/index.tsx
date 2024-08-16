@@ -4,7 +4,7 @@ import React from "react";
 export default function AppDownload() {
   return (
     <>
-      <section className="w-full bg-[#08ADAD] 2xl:bg-white mb-20" id="appDownload" >
+      <section className="w-full bg-[#08ADAD] mb-20" id="appDownload" >
         <div className="mx-auto h-[406px] max-w-7xl overflow-hidden rounded-2xl bg-[#08ADAD] px-4 sm:px-6 lg:px-8">
           <div className="top-neg-197 left-neg-217 absolute flex  flex-col items-start gap-10 p-10">
             <img

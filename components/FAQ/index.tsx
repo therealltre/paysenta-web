@@ -34,8 +34,8 @@ export default function Home() {
                                         </svg>
                                     </div>
                                     <div className="ml-4">
-                                        <p className="text-base font-medium leading-none text-gray-800">Getting Started</p>
-                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                        <p className="text-base font-medium leading-none text-gray-800  dark:text-black">Getting Started</p>
+                                        <p className="text-xs lg:text-sm xl:text-base  dark:text-black lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
                                     </div>
                                 </div>
                             </a>
@@ -53,8 +53,8 @@ export default function Home() {
                                         </svg>
                                     </div>
                                     <div className="ml-4">
-                                        <p className="text-base font-medium leading-none text-gray-800">User Account</p>
-                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                        <p className="text-base font-medium leading-none text-gray-800 dark:text-black">User Account</p>
+                                        <p className="text-xs lg:text-sm xl:text-base  dark:text-black lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
                                     </div>
                                 </div>
                             </a>
@@ -77,8 +77,8 @@ export default function Home() {
                                         </svg>
                                     </div>
                                     <div className="ml-4">
-                                        <p className="text-base font-medium leading-none text-gray-800">Product Features</p>
-                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                        <p className="text-base font-medium leading-none text-gray-800  dark:text-black">Product Features</p>
+                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal  dark:text-black text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
                                     </div>
                                 </div>
                             </a>
@@ -92,8 +92,8 @@ export default function Home() {
                                         </svg>
                                     </div>
                                     <div className="ml-4">
-                                        <p className="text-base font-medium leading-none text-gray-800">Customization Options</p>
-                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                        <p className="text-base font-medium leading-none text-gray-800  dark:text-black">Customization Options</p>
+                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal  dark:text-black text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
                                     </div>
                                 </div>
                             </a>
@@ -111,8 +111,8 @@ export default function Home() {
                                         </svg>
                                     </div>
                                     <div className="ml-4">
-                                        <p className="text-base font-medium leading-none text-gray-800">Payment Gateways</p>
-                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                        <p className="text-base font-medium leading-none text-gray-800  dark:text-black">Payment Gateways</p>
+                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal   dark:text-black text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
                                     </div>
                                 </div>
                             </a>
@@ -129,8 +129,8 @@ export default function Home() {
                                         </svg>
                                     </div>
                                     <div className="ml-4">
-                                        <p className="text-base font-medium leading-none text-gray-800">Security Options</p>
-                                        <p className="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                        <p className="text-base font-medium leading-none text-gray-800  dark:text-black">Security Options</p>
+                                        <p className="text-xs lg:text-sm xl:text-base  dark:text-black lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
                                     </div>
                                 </div>
                             </a>
