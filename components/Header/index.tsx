@@ -190,7 +190,7 @@ const Header = () => {
                 >
                   Register
                 </Link>
-                <div>{/* <ThemeToggler /> */}</div>
+                {/* <div><ThemeToggler /></div> */}
               </div>
             </div>
           </div>
